@@ -887,6 +887,9 @@
   "ISLAND_COLLECTION_ITEM": {
     "ru": "§e▸ Переложите предмет в коллекцию!"
   },
+  "ISLAND_COLLECTION_WRONG_ISLAND": {
+    "ru": "§cВы не можете активировать коллекционные предметы с чужого острова!"
+  },
   "ISLAND_COLLECTION": {
     "ITEM": {
       "GIANT_CARROT": {
