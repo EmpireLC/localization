@@ -855,6 +855,44 @@
     "ua": "$SB_PREFIX$Цей острів закритий і телепортація на нього неможлива! Попросіть власника відключити прапор §cприватність",
     "en": "$SB_PREFIX$This island is closed and teleportation to it is not possible! Ask the owner to turn off the flag §cprivacy"
   },
+  "ISLAND_PROFILE_COLLECTION_NAME": {
+    "ru": "§7Коллекция острова"
+  },
+  "ISLAND_PROFILE_COLLECTION_LORE": {
+    "ru": [
+      "",
+      "§7Просмотр и активация коллеции острова",
+      " ",
+      "§e▸ Нажмите, чтобы открыть"
+    ]
+  },
+  "ISLAND_COLLECTION_GUI_NAME": {
+    "ru": "§7Коллекция"
+  },
+  "ISLAND_COLLECTION_PAGE_COMPLETED": {
+    "ru": "§a✓✓ Страница коллекций собрана!"
+  },
+  "ISLAND_COLLECTION_ROW_COMPLETED": {
+    "ru": "§a✓ Предметы строки найдены!"
+  },
+  "ISLAND_COLLECTION_ITEM_COMPLETED": {
+    "ru": "§a✓ Предмет найден!"
+  },
+  "ISLAND_COLLECTION_ITEM_NOT_COMPLETED": {
+    "ru": "§e▸ Нажмите, чтобы положить в коллекцию!"
+  },
+  "ISLAND_COLLECTION_ITEM": {
+    "ru": "§e▸ Переложите предмет в коллекцию!"
+  },
+  "ISLAND_COLLECTION": {
+    "ITEM": {
+
+    },
+    "MOB": {
+
+    }
+  },
+
   "ISLAND_CREATE_DESCRIPTION": {
     "ru": "создать остров"
   },
