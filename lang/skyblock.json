@@ -856,14 +856,17 @@
     "en": "$SB_PREFIX$This island is closed and teleportation to it is not possible! Ask the owner to turn off the flag §cprivacy"
   },
   "ISLAND_PROFILE_COLLECTION_NAME": {
-    "ru": "§7Коллекция острова"
+    "ru": "§eКоллекции"
   },
   "ISLAND_PROFILE_COLLECTION_LORE": {
     "ru": [
       "",
-      "§7Просмотр и активация коллеции острова",
+      "§7Все собранные коллекционные",
+      "§7предметы с острова находятся тут",
       " ",
-      "§e▸ Нажмите, чтобы открыть"
+      "§7Открыто: §a%d§7/§a%d §8(§6%d§8\u0025)",
+      " ",
+      "§e▸ Нажмите, чтобы открыть список коллекций"
     ]
   },
   "ISLAND_COLLECTION_GUI_NAME": {
