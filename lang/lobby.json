@@ -4483,10 +4483,10 @@
     "en": "§e▸ Click to hide the title"
   },
   "TITLE_JOIN_LOBBY": {
-    "ru": "§dDiscord §fнашего сервера"
+    "ru": "§fВайп §cАнархии§f!"
   },
   "SUBTITLE_JOIN_LOBBY": {
-    "ru": "§9discord.lastcraft.net"
+    "ru": "§aПроведены работы по оптимизации PVP§f."
   },
   "TITLE_NOT_ACCESS": {
     "ru": "§cДоступен по особым праздникам или дням",
@@ -4522,5 +4522,8 @@
     "ru": "§fДобро пожаловать!",
     "ua": "§fЩиро вітаємо!",
     "en": "§fWelcome!"
+  },
+  "BOARD_EASTER_2022_PRESENTS_FOUND": {
+    "ru": "§fНайдено яиц: §e%s/%s"
   }
 }
