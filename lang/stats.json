@@ -125,6 +125,10 @@
     "ua": "Перемога за шукачів",
     "en": "Wins for the seekers"
   },
+  "HIDERS_FOUND_STAT": {
+    "ru": "Прячущихся найдено",
+    "en": "Hiders found"
+  },
   "WINS_STAT": {
     "ru": "Побед",
     "ua": "Перемог",
